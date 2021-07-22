@@ -1,0 +1,9 @@
+.vscode
+/ListaCompra.class
+/Programa.class
+/bin/
+
+# eclipse project file
+.settings/
+.classpath
+.project
